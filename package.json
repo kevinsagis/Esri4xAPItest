@@ -1,0 +1,19 @@
+{
+  "name": "AxisNEXT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.16.0"
+  },
+  "devDependencies": {
+    "dojo-typings": "^1.11.11"
+  }
+}
